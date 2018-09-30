@@ -1,5 +1,7 @@
 # smart-duplicate-deleter
 
+Compares local duplicate music tracks to a set of rules and automatically deletes the "undesired" track.
+
 ## Code workflow
 1. Gather list of music files from a local root path
 2. Get file metadata for each file (ie. title, bpm, etc.)
